@@ -77,7 +77,7 @@ Nextric Hire empowers users to:
 
 Nextric Hire is an open-source project, and we welcome contributions and sponsorships from the community!
 
-👉 **Repo:** [https://github.com/Amansingh0807/Nextric-hire](https://github.com/Amansingh0807/Nextric-hire)
+👉 **Repo:** [https://github.com/shwetasr05/Nextric-hire](https://github.com/shwetasr05/Nextric-hire)
 
 Whether it's improving UI/UX, optimizing AI prompts, or refining backend logic — feel free to open a PR or raise an issue. We value your input!
 
@@ -103,4 +103,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ by [Aman Singh](https://github.com/Amansingh0807)
+
